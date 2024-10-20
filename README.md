@@ -7,7 +7,7 @@
 - 🚀 Um **iniciante na área de desenvolvimento**, sempre buscando evoluir e adquirir novas habilidades.
 
 ### Tecnologias e Ferramentas
-- 💻 Já utilizei: **Java**, **C#**, **PHP**, **JavaScript**, **HTML**, **CSS**, e **SQL** em atividades de curso e projetos pessoais.
+- 💻 Já utilizei: **Java**, **C#**, **PHP**, **JavaScript**, **HTML**, **CSS**, e **SQL** em atividades do curso e projetos pessoais.
 - 🛠️ Trabalho com: **Git** e **GitHub** para versionamento e colaboração em meus projetos.
 - 🔧 Experiência com: **Postman** e **pgAdmin**.
 - 🧑‍💻 Utilizo: **VS Code** e **Figma** para desenvolvimento e design.
