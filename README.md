@@ -1,7 +1,7 @@
-<h1 align="center">Olá, eu sou João Nicolas! 👋</h1>
+<h1 align="center">Olá, eu sou João Nicolas 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Estudante+de+Engenharia+da+Computação;Apaixonado+por+Tecnologia;Infraestrutura+de+TI;Cibersegurança;Desenvolvimento+de+Software" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Estudante+de+Engenharia+da+Computa%C3%A7%C3%A3o;Apaixonado+por+Tecnologia;Infraestrutura+de+TI;Ciberseguran%C3%A7a;Desenvolvimento+de+Software" />
 </p>
 
 🚀 Sobre Mim
@@ -26,11 +26,8 @@ Construir uma carreira sólida na área de Tecnologia da Informação, adquirind
 📚 Atualmente
 
 🎓 Cursando Engenharia da Computação
-
 🚀 Desenvolvendo projetos acadêmicos e pessoais para aprimorar conhecimentos técnicos
-
 📖 Estudando tecnologias voltadas para programação, redes de computadores e segurança da informação
-
 💡 Buscando constantemente novas oportunidades de aprendizado e crescimento profissional
 
 <div align="center">
