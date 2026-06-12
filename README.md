@@ -1,3 +1,9 @@
+<h1 align="center">Olá, eu sou João Nicolas! 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Estudante+de+Engenharia+da+Computação;Apaixonado+por+Tecnologia;Infraestrutura+de+TI;Cibersegurança;Desenvolvimento+de+Software" />
+</p>
+
 🚀 Sobre Mim
 
 Sou estudante de Engenharia da Computação (4º semestre) e técnico em Desenvolvimento de Sistemas pelo SENAI. Sou apaixonado por tecnologia e estou sempre em busca de novos conhecimentos e desafios que contribuam para minha evolução pessoal e profissional.
