@@ -1,36 +1,77 @@
-<div class="tenor-gif-embed" data-postid="24712790" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/software-software-development-gif-24712790">Software Software Development GIF</a>from <a href="https://tenor.com/search/software-gifs">Software GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+```html
+<h1 align="center">Olá, eu sou João Nicolas! 👋</h1>
 
-Olá, eu sou João Nicolas! 👋
+<p align="center">
+  🎓 Engenharia da Computação • 💻 Desenvolvimento de Sistemas • 🚀 Tecnologia
+</p>
 
-🎓 Estudante de Engenharia da Computação (4º semestre)
-💻 Técnico em Desenvolvimento de Sistemas pelo SENAI
-🚀 Apaixonado por Tecnologia e Aprendizado Contínuo
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Estudante+de+Engenharia+da+Computação;Apaixonado+por+Tecnologia;Infraestrutura+de+TI;Cibersegurança;Desenvolvimento+de+Software" />
+</p>
 
-🚀 Sobre Mim
-Sou um profissional em formação na área de Tecnologia da Informação, com interesse em infraestrutura, suporte técnico, cibersegurança e desenvolvimento de software.
-Tenho perfil proativo, comunicativo e colaborativo, sempre buscando aprimorar minhas habilidades técnicas por meio de estudos, projetos práticos e novos desafios.
-Acredito que a tecnologia é uma ferramenta de transformação, e por isso estou constantemente em busca de conhecimento e evolução profissional.
+<hr>
 
-🎯 Objetivo
-Busco oportunidades para desenvolver minha carreira na área de TI, adquirindo experiência prática e contribuindo com dedicação, responsabilidade e inovação para os projetos em que estiver envolvido.
+<h2>🚀 Sobre Mim</h2>
 
-💼 Áreas de Interesse
-🖥️ Infraestrutura de TI
-🛠️ Suporte Técnico
-🔒 Cibersegurança
-💻 Desenvolvimento de Software
-📚 Atualmente
-🎓 Cursando Engenharia da Computação
-🚀 Desenvolvendo projetos acadêmicos e pessoais
-📖 Aprimorando conhecimentos em tecnologia, redes e segurança da informação
+<p>
+Sou estudante de <b>Engenharia da Computação (4º semestre)</b> e Técnico em
+<b>Desenvolvimento de Sistemas pelo SENAI</b>.
+</p>
 
+<p>
+Tenho interesse em Infraestrutura de TI, Suporte Técnico, Cibersegurança e
+Desenvolvimento de Software, buscando constantemente aprimorar minhas habilidades
+por meio de estudos, projetos práticos e novos desafios.
+</p>
+
+<h2>🎯 Objetivo</h2>
+
+<p>
+Desenvolver minha carreira na área de Tecnologia da Informação, adquirindo
+experiência prática e contribuindo com dedicação, responsabilidade e inovação.
+</p>
+
+<h2>💼 Áreas de Interesse</h2>
+
+<ul>
+  <li>🖥️ Infraestrutura de TI</li>
+  <li>🛠️ Suporte Técnico</li>
+  <li>🔒 Cibersegurança</li>
+  <li>💻 Desenvolvimento de Software</li>
+  <li>☁️ Computação em Nuvem</li>
+  <li>📊 Banco de Dados</li>
+</ul>
+
+<h2>📚 Atualmente</h2>
+
+<ul>
+  <li>🎓 Cursando Engenharia da Computação</li>
+  <li>🚀 Desenvolvendo projetos acadêmicos e pessoais</li>
+  <li>📖 Estudando Redes, Segurança da Informação e Programação</li>
+</ul>
+
+<h2 align="center">🛠️ Tecnologias e Ferramentas</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,java,php,js,html,css,postgres,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,php,js,ts,html,css,mysql,postgres,git,github,vscode" />
 </div>
 
+<br>
+
+<h2 align="center">📊 Estatísticas GitHub</h2>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoNicolasFreitas&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoNicolasFreitas&layout=compact&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoNicolasFreitas&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoNicolasFreitas&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=JoaoNicolasFreitas&theme=tokyonight&hide_border=true"/>
+</div>
+
+<br>
+
+<p align="center">
+  🚀 Sempre aprendendo, evoluindo e construindo soluções através da tecnologia.
+</p>
+```
