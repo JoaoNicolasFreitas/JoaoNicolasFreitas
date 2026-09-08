@@ -1,51 +1,95 @@
-<h1 align="center">Olá, eu sou João Nicolas 👋</h1>
+<h1 align="center">Olá, eu sou o João Nicolas Freitas 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Estudante+de+Engenharia+da+Computa%C3%A7%C3%A3o;Apaixonado+por+Tecnologia;Infraestrutura+de+TI;Ciberseguran%C3%A7a;Desenvolvimento+de+Software" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Engenharia+da+Computa%C3%A7%C3%A3o;Desenvolvimento+de+Software;Banco+de+Dados+%26+Dados;Infraestrutura+%26+Redes;IoT+%26+Eletr%C3%B4nica;Intelig%C3%AAncia+Artificial" />
 </p>
 
-🚀 Sobre Mim
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:SEU-EMAIL@exemplo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://SEU-PORTFOLIO.com">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
-Sou estudante de Engenharia da Computação (4º semestre) e técnico em Desenvolvimento de Sistemas pelo SENAI. Sou apaixonado por tecnologia e estou sempre em busca de novos conhecimentos e desafios que contribuam para minha evolução pessoal e profissional.
+---
 
-Tenho interesse nas áreas de Infraestrutura de TI, Suporte Técnico, Cibersegurança e Desenvolvimento de Software, buscando aprimorar continuamente minhas habilidades por meio de estudos, certificações e projetos práticos.
+### 👨‍💻 Sobre mim
 
-🎯 Objetivo
+🎓 Estudante de **Engenharia da Computação**, com formação técnica em **Desenvolvimento de Sistemas**.
 
-Construir uma carreira sólida na área de Tecnologia da Informação, adquirindo experiência prática, desenvolvendo soluções inovadoras e contribuindo de forma responsável e comprometida para o crescimento das organizações e equipes das quais fizer parte.
+Tenho interesse na integração entre **software, dados, infraestrutura e sistemas computacionais**, buscando construir uma visão ampla e sólida sobre tecnologia e engenharia. Minha trajetória passa por desenvolvimento de software, banco de dados, redes, infraestrutura de TI, computação em nuvem, IoT, eletrônica e Inteligência Artificial.
 
-💼 Áreas de Interesse
+🚀 Gosto de transformar conhecimento técnico em **soluções práticas, eficientes e escaláveis**, através de projetos acadêmicos, profissionais e pessoais.
 
-🖥️ Infraestrutura de TI
-🛠️ Suporte Técnico
-🔒 Cibersegurança
-💻 Desenvolvimento de Software
-☁️ Computação em Nuvem
-📊 Banco de Dados
+<br>
 
-📚 Atualmente
+### 🎯 Áreas de interesse
 
-🎓 Cursando Engenharia da Computação
-🚀 Desenvolvendo projetos acadêmicos e pessoais para aprimorar conhecimentos técnicos
-📖 Estudando tecnologias voltadas para programação, redes de computadores e segurança da informação
-💡 Buscando constantemente novas oportunidades de aprendizado e crescimento profissional
+<table>
+  <tr>
+    <td>💻 Desenvolvimento de Software</td>
+    <td>🗄️ Banco de Dados & Dados</td>
+  </tr>
+  <tr>
+    <td>🌐 Redes & Infraestrutura de TI</td>
+    <td>☁️ Computação em Nuvem</td>
+  </tr>
+  <tr>
+    <td>🔒 Segurança da Informação</td>
+    <td>🤖 Inteligência Artificial</td>
+  </tr>
+  <tr>
+    <td>📡 IoT & Sistemas Embarcados</td>
+    <td>⚡ Eletrônica</td>
+  </tr>
+</table>
+
+<br>
+
+### 📚 Atualmente
+
+- 🎓 Cursando **Engenharia da Computação**
+- 🗄️ Aprofundando conhecimentos em **Banco de Dados, SQL** e sistemas de informação
+- 🌐 Estudando **Redes e Infraestrutura de TI**
+- 💻 Desenvolvendo e implementando **soluções de software**
+- 🤖 Explorando aplicações de **Inteligência Artificial** em projetos reais
+- ⚡ Aprofundando conhecimentos em **IoT, eletrônica** e sistemas computacionais
+- 🛠️ Construindo projetos para **aplicar e consolidar** conhecimentos técnicos
+
+<br>
+
+### 🧰 Tecnologias & Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,php,js,ts,html,css,mysql,postgres,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,php,js,ts,html,css,flutter,mysql,postgres,supabase,git,github,vscode,figma" />
 </div>
 
 <br>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoNicolasFreitas&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoNicolasFreitas&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=JoaoNicolasFreitas&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JoaoNicolasFreitas&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
+
 <br>
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoNicolasFreitas&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoNicolasFreitas&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=JoaoNicolasFreitas&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://profile-counter.glitch.me/JoaoNicolasFreitas/count.svg" alt="Contador de visitas" />
 </div>
+
+<p align="center"><i>Construindo soluções. Desenvolvendo conhecimento. Evoluindo continuamente. 🚀</i></p>
