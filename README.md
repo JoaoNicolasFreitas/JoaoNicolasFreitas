@@ -65,31 +65,50 @@ Tenho interesse na integração entre **software, dados, infraestrutura e sistem
 
 ### 🧰 Tecnologias & Ferramentas
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,php,js,ts,html,css,flutter,mysql,postgres,supabase,git,github,vscode,figma" />
+<table align="center">
+  <tr>
+    <td align="center" width="150"><b>Linguagens</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=java,python,cpp,php,js,ts,dart" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Mobile</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=flutter,androidstudio" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Front-end</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,angular,react" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Banco de Dados</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Ferramentas & IDEs</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+    </td>
+  </tr>
+</table>
+
+
+📊 GitHub Stats
 </div>
 
 <br>
 
-### 📊 GitHub Stats
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoNicolasFreitas&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoNicolasFreitas&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=JoaoNicolasFreitas&theme=tokyonight&hide_border=true" />
-</div>
+<img src="https://streak-stats.demolab.com?user=JoaoNicolasFreitas&theme=tokyonight&hide_border=true"/>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JoaoNicolasFreitas&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
 
 <br>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/JoaoNicolasFreitas/count.svg" alt="Contador de visitas" />
-</div>
-
-<p align="center"><i>Construindo soluções. Desenvolvendo conhecimento. Evoluindo continuamente. 🚀</i></p>
