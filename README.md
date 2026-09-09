@@ -93,7 +93,8 @@ Tenho interesse na integração entre **software, dados, infraestrutura e sistem
   <tr>
     <td align="center"><b>Ferramentas & IDEs</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+     <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma,postman" />
+<img src="https://www.cursor.com/favicon.ico" width="48" height="48" alt="Cursor IDE" />
     </td>
   </tr>
 </table>
